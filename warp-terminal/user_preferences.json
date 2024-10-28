@@ -1,0 +1,23 @@
+{
+  "prefs": {
+    "TelemetryEnabled": "true",
+    "AIRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-09-20T02:57:13.356848Z\"}",
+    "NotebookFontSize": "14.0",
+    "CrashReportingEnabled": "true",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-09-20T02:57:13.356848Z\"}",
+    "SameLinePromptBlockState": "\"DoNotShow\"",
+    "FontSize": "13.0",
+    "AutosuggestionAcceptedCount": "1",
+    "SystemTheme": "false",
+    "FontName": "\"Roboto Mono\"",
+    "AgentModeOnboardingBlockShown": "true",
+    "Theme": "\"Dracula\"",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"OpenWarpDrive\"},{\"Hint\":\"CreateBlock\"},{\"Action\":\"ThemePicker\"}]",
+    "OverrideOpacity": "85",
+    "InputMode": "\"PinnedToBottom\"",
+    "AliasExpansionBannerSeen": "true",
+    "ExperimentId": "98c8bb80-b3c7-4adb-b04a-bb5265eb2eeb",
+    "Spacing": "\"Compact\"",
+    "ReceivedReferralTheme": "\"Inactive\""
+  }
+}

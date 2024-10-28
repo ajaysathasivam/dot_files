@@ -1,0 +1,34 @@
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/5th-books/term_I/english_term_I.pdf
+File10[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/3rd_books/term_I/3rd_en_t1
+File2[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/6th_books/term_II/download?id=1EbZ7pJYoG4qrlECPOT1hyiuiEP6JX5f5&export=download&authuser=0
+File3[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/3rd_books/3rd_math_t1_em.pdf
+File4[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/1st_books/1st_math_em.pdf
+File5[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/1st_books/term_I/1st_math_em.pdf
+File6[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/1st_books/term_II/1st_math_t2_em.pdf
+File7[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/1st_books/term_I/download
+File8[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/2nd_books/term_II/2nd_t2_english
+File9[$e]=$HOME/Disk/B2/ReadOnly-Dir/Books/2nd_books/term_II/2nd_t2_english.pdf
+Name1[$e]=english_term_I.pdf
+Name10[$e]=3rd_en_t1
+Name2[$e]=download?id=1EbZ7pJYoG4qrlECPOT1hyiuiEP6JX5f5&export=download&authuser=0
+Name3[$e]=3rd_math_t1_em.pdf
+Name4[$e]=1st_math_em.pdf
+Name5[$e]=1st_math_em.pdf
+Name6[$e]=1st_math_t2_em.pdf
+Name7[$e]=download
+Name8[$e]=2nd_t2_english
+Name9[$e]=2nd_t2_english.pdf

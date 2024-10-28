@@ -1,0 +1,12 @@
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=archlinux-tweak-tool.py
+count=1
+
+[Session: saved at previous logout]
+clientId1=10fd13ce1dd000172543993600000008470002
+count=1
+program1=pulseaudio
+restartCommand1=
+restartStyleHint1=0
+userId1=novo

@@ -1,0 +1,4 @@
+0
+/usr/share/backgrounds/archlinux-login-backgrounds/att-03.jpg
+/usr/share/backgrounds/arco/keyboard-3648x2736.jpg
+/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg

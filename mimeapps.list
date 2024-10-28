@@ -1,0 +1,37 @@
+[Added Associations]
+inode/directory=codium-wayland.desktop;org.kde.kate.desktop;
+text/javascript=org.kde.kate.desktop;
+text/x-scss=org.kde.kate.desktop;
+text/plain=sublime_text.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;
+text/html=brave-browser.desktop;sublime_text.desktop;zen-alpha.desktop;
+x-scheme-handler/mailto=xfce4-mail-reader.desktop;
+application/pdf=zen-alpha.desktop;okularApplication_pdf.desktop;
+image/jpeg=org.kde.gwenview.desktop;
+x-scheme-handler/http=zen-alpha.desktop;
+x-scheme-handler/https=zen-alpha.desktop;
+x-scheme-handler/chrome=zen-alpha.desktop;
+application/x-extension-htm=zen-alpha.desktop;
+application/x-extension-html=zen-alpha.desktop;
+application/x-extension-shtml=zen-alpha.desktop;
+application/xhtml+xml=zen-alpha.desktop;
+application/x-extension-xhtml=zen-alpha.desktop;
+application/x-extension-xht=zen-alpha.desktop;
+text/x-python=sublime_text.desktop;
+image/png=org.kde.gwenview.desktop;
+
+[Default Applications]
+text/plain=sublime_text.desktop
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+x-scheme-handler/mailto=xfce4-mail-reader.desktop
+image/jpeg=org.kde.gwenview.desktop
+x-scheme-handler/http=zen-alpha.desktop
+x-scheme-handler/https=zen-alpha.desktop
+x-scheme-handler/chrome=zen-alpha.desktop
+text/html=zen-alpha.desktop
+application/x-extension-htm=zen-alpha.desktop
+application/x-extension-html=zen-alpha.desktop
+application/x-extension-shtml=zen-alpha.desktop
+application/xhtml+xml=zen-alpha.desktop
+application/x-extension-xhtml=zen-alpha.desktop
+application/x-extension-xht=zen-alpha.desktop
